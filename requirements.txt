@@ -1,0 +1,17 @@
+streamlit
+gensim
+sklearn-crfsuite
+stanza
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+Sastrawi
+emoji
+imbalanced-learn
+tqdm
+pyLDAvis
+scikit-learn
+tensorflow
