@@ -36,4 +36,4 @@ File `fasttext_compatible.bin.wv.vectors_ngrams.npy` (dan file terkait lainnya) 
 [Link Google Drive Lengkap](https://drive.google.com/file/d/13uZvdpFCEvYn4JJQvQXreKpUeDQ-Vts1/view?usp=drive_link)
 
 ## Youtube
-[Libk Youtube](https://youtu.be/ML3xzWJi3_Q)
+[Link Youtube](https://youtu.be/ML3xzWJi3_Q)
